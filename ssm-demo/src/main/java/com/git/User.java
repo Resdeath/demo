@@ -5,5 +5,5 @@ public class User {
     private Integer age;
 
     private String number1;
-    private String qianduan;
+    private String houduan;
 }
