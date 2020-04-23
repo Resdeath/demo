@@ -9,4 +9,5 @@ public class User {
     private String qianduan;
 
     private String newestcommom;
+    private  String increase;
 }
