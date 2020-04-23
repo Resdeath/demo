@@ -6,4 +6,6 @@ public class User {
 
     private String number1;
     private String qianduan;
+
+    private String common;
 }
