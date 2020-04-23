@@ -10,4 +10,5 @@ public class User {
 
     private String newestcommom;
     private  String increase;
+    private String increase02;
 }
